@@ -1,2 +1,0 @@
-#EHP Portfolio
-Debugging
